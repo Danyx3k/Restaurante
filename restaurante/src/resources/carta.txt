@@ -1,0 +1,4 @@
+Pizza, 25000, Plato Fuerte
+Coca Cola, 5000, Bebida
+Hamburguesa, 20000, Plato Fuerte
+Aros de cebolla, 18000, Entrada
