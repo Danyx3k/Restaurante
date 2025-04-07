@@ -1,0 +1,14 @@
+Pizza, 25000, Plato Fuerte
+Hamburguesa, 20000, Plato Fuerte
+Bandeja Paisa, 35000, Plato Fuerte
+Carne a la planchca, 45000, Plato Fuerte
+Picada familiar, 75000, Plato Fuerte
+Aros de cebolla, 18000, Entrada
+Empanadas, 8000, Entrada
+Butifarra, 8000, Entrada
+Camarones, 8000, Entrada
+Coca Cola, 5000, Bebida
+Jugo Natural, 4500, Bebida
+Té de limón, 5000, Bebida
+Mr Tea, 5500, Bebida
+Jugo en leche, 8000, Bebida
